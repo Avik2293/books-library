@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "category_name": "Motivational book",
+        "category_id": 1
+    },
+    {
+        "id": 2,
+        "category_name": "Nonfiction Book",
+        "category_id": 2
+    },
+    {
+        "id": 3,
+        "category_name": "Business & Money",
+        "category_id": 3
+    }
+]
